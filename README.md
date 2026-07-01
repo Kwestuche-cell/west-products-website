@@ -1,4 +1,4 @@
-West Products Landing Page
+West Products Website
 
 A modern, responsive landing page built for West Products, a digital services business that specializes in selling social media accounts and related online services. This project was created to showcase my frontend development skills, with a focus on clean UI, responsive design, and user-friendly layouts.
 
