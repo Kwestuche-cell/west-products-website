@@ -42,7 +42,7 @@ This project was developed as a portfolio piece to demonstrate my ability to bui
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/west-products-landing-page.git
+git clone https://github.com/Kwestuche-cell/west-products-landing-page.git
 
 Navigate into the project folder:
 
